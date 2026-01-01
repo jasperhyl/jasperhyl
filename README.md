@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://hylovo.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%2F%2A%20write%2C%20compile%2C%20run%2C%20repeat%20%2A%2F&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%2F%2A%20write%2C%20compile%2C%20run%2C%20repeat%20%2A%2F&amp;center=true&amp;size=27&amp;width=1000">
   </a>
 </h1>
 
